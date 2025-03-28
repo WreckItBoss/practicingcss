@@ -1,0 +1,15 @@
+.thumbnail{
+    width: 300px;
+    /*object-fit: contain; 
+    /* object fit: determines what happens when the img doesnt match will 
+    object-fit: cover -> this will crop out to the size defined
+    object-fit: contain -> this will shrink the overall size to the size defined
+    */
+    object-position: left;
+    /* object-position: defines what part of the img u want to se when cropped out
+    */
+}
+.search-bar{
+    font-size: 20px;
+    margin-left: 12px;
+}
